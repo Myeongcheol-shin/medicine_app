@@ -16,7 +16,7 @@ class ApiService {
   static Future<List<Items>> getMedicine(String name) async {
     if (name == "") return [];
     final url = Uri.parse(
-        "$baseUrl?serviceKey=$key&pageNum=1&numOfRows=2&itemName=$name&type=json");
+        "$baseUrl?serviceKey=$key&pageNum=1&numOfRows=8&itemName=$name&type=json");
     final response = await http.get(url);
     final List<Items> medicines = [];
     if (response.statusCode == 200) {
