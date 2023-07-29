@@ -1,16 +1,16 @@
-# medicine_app
+# medicine(drug)_information_app
+Searching for the drug name provides related information.
 
-A new Flutter project.
+## feature
+* Provides efficacy, usage, precautions, side effects, storage, and interactions of drugs.
+* Information about drugs sold in Korea is available.
 
-## Getting Started
+## caution
+You have to search only in Korean.
 
-This project is a starting point for a Flutter application.
+## How to Use
+1. Please enter the name of the drug you wish to search for
+2. Please select the matching drug name
+3. Among the buttons to select information, press the desired button.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ScreenShot
