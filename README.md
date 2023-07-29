@@ -1,16 +1,33 @@
-# medicine_app
+# medicine(drug)_information_app
+Searching for the drug name provides related information.
 
-A new Flutter project.
+## feature
+* Provides efficacy, usage, precautions, side effects, storage, and interactions of drugs.
+* Information about drugs sold in Korea is available.
 
-## Getting Started
+## caution
+You have to search only in Korean.
 
-This project is a starting point for a Flutter application.
+## API Info
+공공 데이터 : 식품의약품안전처_의약품개요정보(e약은요)
+https://www.data.go.kr/data/15075057/openapi.do
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## How to Use
+1. Please enter the name of the drug you wish to search for
+2. Please select the matching drug name
+3. Among the buttons to select information, press the desired button.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ScreenShot
+<p>
+  <img src="https://github.com/Myeongcheol-shin/medicine_app/assets/82868004/790eb9de-3020-49f4-aaa1-a97b5c17d70c" align="center" width="20%">
+  <img src="https://github.com/Myeongcheol-shin/medicine_app/assets/82868004/40205365-3f33-429e-b304-e415010b504d" align="center" width="20%">
+  <img src="https://github.com/Myeongcheol-shin/medicine_app/assets/82868004/d2b5d821-26b4-4dee-b183-f22f52764059" align="center" width="20%">
+  <img src="https://github.com/Myeongcheol-shin/medicine_app/assets/82868004/8ad94a28-8409-4770-96f0-d6e4e25506d7" align="center" width="20%">
+  <img src="https://github.com/Myeongcheol-shin/medicine_app/assets/82868004/0fa2eb18-2628-4584-bd27-64bf30c8ddbf" align="center" width="20%">
+</p>
+
+
+https://github.com/Myeongcheol-shin/medicine_app/assets/82868004/7218db29-fd64-4e8f-990c-a37503305492
+
+
